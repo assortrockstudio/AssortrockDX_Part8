@@ -1,0 +1,5 @@
+1. Deferred 렌더링 단계 추가
+
+2. Deferred 전용 쉐이더 작성
+  - Player 오브젝트에 Deferred 재질 적용
+  - 각 타겟별로 다른 색상이 출력되도록 해봄

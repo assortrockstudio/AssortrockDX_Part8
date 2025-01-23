@@ -1,0 +1,7 @@
+0. 수업 진행 방향
+
+1. NormalMapping 마무리
+
+2. DebugShape 에 Cube타입 추가
+
+3. SkyBox 컴포넌트 구현 시작

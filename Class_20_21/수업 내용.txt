@@ -1,0 +1,4 @@
+1. DepthStencil 테스트로 VolumeMesh 영역 내부 체크 하는 방법에대한 이론적인 설명
+
+2. PointLight 쉐이더에서 영역 내부에 해당하는 부분을 체크하는 검사 추가
+  - VolumeMesh(Sphere) 의 Local 영역으로 이동해서 체크하는 방법

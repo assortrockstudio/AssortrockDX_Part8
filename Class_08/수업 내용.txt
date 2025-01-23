@@ -1,0 +1,9 @@
+1. 수업용 타일 텍스쳐 업로드
+2. Point Light 를 여러개 사용 시, 빛이 중첩적용되는지 테스트
+  - RectMesh 정점에 Normal, Tangent, Binormal 누락된거 추가
+  - DebugShader 에서 DebugShape 에 따른 옵션 다양화 (RS_TYPE)
+  - DebugRender 에 DepthTest 여부 설정할 수 있도록 변경
+
+3. TestLevel 에 Directional 광원 설정
+
+4. Std3DShader 에서 텍스쳐를 바인딩 받아서 샘플링한 색을 사용하도록 추가
